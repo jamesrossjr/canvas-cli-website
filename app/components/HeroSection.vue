@@ -4,6 +4,10 @@
     
     <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32 text-center">
       <div class="space-y-8">
+        <div class="flex justify-center mb-8">
+          <img src="/images/logo.svg" alt="Canvas CLI Logo" class="w-32 h-32 md:w-40 md:h-40 rounded-2xl shadow-2xl animate-pulse-slow" />
+        </div>
+        
         <div class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800 mb-4">
           <span class="flex items-center">
             <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">

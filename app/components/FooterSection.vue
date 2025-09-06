@@ -3,10 +3,8 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
         <div class="space-y-4">
-          <div class="flex items-center space-x-2">
-            <div class="w-8 h-8 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
-              <span class="text-white font-bold text-lg">C</span>
-            </div>
+          <div class="flex items-center space-x-3">
+            <img src="/images/logo.svg" alt="Canvas CLI Logo" class="w-10 h-10 rounded-lg" />
             <span class="font-bold text-xl text-white">Canvas CLI</span>
           </div>
           <p class="text-sm">
